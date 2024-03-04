@@ -1,6 +1,9 @@
 # Save System From my Tier List game on Roblox.com. (Server Side)
 
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/)](https://securityscorecards.dev/viewer/?uri=github.com/CalebLauder/Lab3
+
+
 
 local DataStoreService = game:GetService("DataStoreService")
 local SaveSlot1 = DataStoreService:GetDataStore("SaveSlot1")
