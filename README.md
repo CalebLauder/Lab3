@@ -1,7 +1,8 @@
 # Save System From my Tier List game on Roblox.com. (Server Side)
 
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/)](https://securityscorecards.dev/viewer/?uri=github.com/CalebLauder/Lab3
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/CalebLauder/Lab3)]
+https://securityscorecards.dev/viewer/?uri=github.com/CalebLauder/Lab3
 
 https://api.securityscorecards.dev/projects/github.com/)](https://securityscorecards.dev/viewer/?uri=github.com/CalebLauder/Lab3
 
